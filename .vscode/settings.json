@@ -1,0 +1,4 @@
+{
+    "yaml.suggest.parentSkeletonSelectedFirst": true,
+    "terminal.integrated.suggest.suggestOnTriggerCharacters": true
+}
